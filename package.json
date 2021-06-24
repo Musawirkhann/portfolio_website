@@ -1,0 +1,20 @@
+{
+  "name": "webservices_site",
+  "version": "1.0.0",
+  "description": "my personal web services which i provide all about that",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:dist/assets/css"
+  },
+  "author": "Musawir Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.35.1"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "autoprefixer": "^10.2.6",
+    "bootstrap": "^5.0.1",
+    "postcss-cli": "^8.3.1"
+  }
+}
